@@ -18,7 +18,7 @@ boot: auto
 legacy: true
 stage: stable
 ingress: true
-ingress_port: 7070
+ingress_port: 7071
 init: false
 image: evcc/evcc
 options: 
